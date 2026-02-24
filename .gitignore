@@ -1,0 +1,16 @@
+# Models
+best_model_xception.keras
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
